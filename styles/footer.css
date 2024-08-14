@@ -18,18 +18,18 @@
     max-width: 980px;
 }
 
-.footer-note {
+#footer-note {
     padding: 17px 0 11px;
     border-bottom: 1px solid #00000029;
 }
-.footer-note li {
+#footer-note li {
     padding-bottom: 0.8em;
     line-height: 16px;
 }
-.footer-note ol {
+#footer-note ol {
     padding: 0 17px;
 }
-.footer-note a {
+#footer-note a {
     text-decoration: underline;
 }
 
